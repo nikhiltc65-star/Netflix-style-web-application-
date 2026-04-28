@@ -24,14 +24,11 @@ This project focuses on replicating the look and feel of Netflix’s homepage.
 
 ## 📸 Screenshots
 
-![Home UI](<img width="1901" height="969" alt="Screenshot 2026-04-28 100602" src="https://github.com/user-attachments/assets/a5a89c76-2698-448f-be08-6731b360f4ad" />
-)
+![Home UI](https://github.com/user-attachments/assets/a5a89c76-2698-448f-be08-6731b360f4ad)
 
-![Content Section](<img width="1919" height="975" alt="Screenshot 2026-04-28 100645" src="https://github.com/user-attachments/assets/de5df812-e4a7-4faa-b483-39f3be11157f" />
-)
+![Content Section](https://github.com/user-attachments/assets/de5df812-e4a7-4faa-b483-39f3be11157f)
 
-![Content Section](<img width="1919" height="974" alt="Screenshot 2026-04-28 100659" src="https://github.com/user-attachments/assets/39940f52-55bb-4db3-b504-0732dc564182" />
-)
+![More Content](https://github.com/user-attachments/assets/39940f52-55bb-4db3-b504-0732dc564182)
 
 ---
 
